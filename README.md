@@ -1,4 +1,4 @@
-![Camera](https://github.com/user-attachments/assets/9876e6e0-e2ae-4ae4-8be8-5d9ff919b02a)
+![Camera Paint](https://github.com/user-attachments/assets/f528987e-b5df-4681-8548-4fc262fd01ed)
 
 > Plan, create and simulate different types and combinations of semiconductors.
 #
