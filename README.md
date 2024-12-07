@@ -17,7 +17,7 @@ Beyond explaining fundamental concepts, the Semiconductor Simulator is tailored 
 <br>
 [Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
 <br>
-[Thermotronics](https://github.com/sourceduty/Thermotronics)
+[Thermoelectronics](https://github.com/sourceduty/Thermoelectronics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
